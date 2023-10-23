@@ -7,7 +7,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-  <h3>About me 😊 </h3>
+  <h3>Welcome to my Profile! >.< </h3>
   <br>
     <p>Technical Apprentice in Digital Solutions on CaP/ETS - BOSCH</p>
     <p>Education: Technical in Computing (2019 - 2022) : Microcamp</p>
@@ -18,8 +18,8 @@
 <br>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/isabelli-marques-615b79210"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-  <a href="mailto:isabellimarques14@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+  <a href="https://www.linkedin.com/in/seu-user-aqui"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+  <a href="mailto:jesussilvaemanuelle@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 </div>
 
 <br>
