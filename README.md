@@ -1,7 +1,7 @@
 
 <h2 align="center">
   Welcome to Manella's World!
-  <img src="https://media.giphy.com/media/lqp9quCpMASNyerNWq/giphy.gif" width="28">
+  <img src="https://media.giphy.com/media/lqp9quCpMASNyerNWq/giphy.gif" width="30">
 </h2>
 
 <!--
