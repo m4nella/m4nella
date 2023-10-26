@@ -60,7 +60,7 @@
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
  ✌️ &emsp; Enjoy programming and SAP :) <br/><br/>
- ❤️ &emsp; Love to play games, learn languages<br/><br/>
+ ❤️ &emsp; Love to play games, learn languages and music ! ! <br/><br/>
  📧 &emsp; Reach me anytime: jesussilvaemanuelle@gmail.com<br/><br/>
 
 </p>
