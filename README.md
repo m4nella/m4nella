@@ -21,7 +21,8 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hello There! (General Kenobi...), I am
-                <b>Emanuelle (But you can call me Manella)</b>
+                <b>Emanuelle </b>
+          (But you can call me Manella)
         </samp>
 </h3>
 
