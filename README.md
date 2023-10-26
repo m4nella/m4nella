@@ -29,7 +29,6 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Emanuelle">「 Google Me 」</a>
     <br>
     「 I am a web developer from <b>Brazil</b> 」
     <br>
