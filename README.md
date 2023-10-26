@@ -1,13 +1,13 @@
 <!--
 <h2 align="center">
-  Welcome to Al Siam World!
+  Welcome to Manella's World!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 -->
 
 <!--
 <p align="center">
-  <a href="https://github.com/alsiam"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/m4nella"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
  -->
@@ -22,7 +22,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hello There! (General Kenobi...), I am
-                <b>Emanuelle</b>
+                <b>Emanuelle (But you can call me Manella)</b>
         </samp>
 </h3>
 
@@ -86,13 +86,13 @@
 
 <p align="center">
   <a href="https://github.com/m4nella">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alsiam&theme=radical&border=7F3FBF&background=0D1117" alt="Manella's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=m4nella&theme=radical&border=7F3FBF&background=0D1117" alt="Manella's GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/m4nella">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alsiam&theme=radical" alt="Al Siam's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m4nella&theme=radical" alt="Manella's GitHub Contribution"/>
   </a>
 </p>
 
