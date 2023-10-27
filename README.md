@@ -60,10 +60,12 @@
  📧 &emsp; Reach me anytime: jesussilvaemanuelle@gmail.com<br/><br/>
 
 </p>
+<br/>
 
-<br/>
-<br/>
-<br/>
+   |  ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=M4nella&count=2&width=650)     |  <img src="https://thumbs.gfycat.com/EntireBlackEchidna-max-1mb.gif"/>       |
+   |    :----:    |    :----:   |
+
+
 
 ## Use To Code
 
