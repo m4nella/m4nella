@@ -61,7 +61,7 @@
 </p>
 <br/>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=bts.armys&cover_image=true&theme=default&show_offline=true&background_color=2a003d&interchange=false&bar_color=de0262)](https://spotify-github-profile.vercel.app/api/view?uid=bts.armys&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=bts.armys&cover_image=true&theme=default&show_offline=true&background_color=2d1d35&interchange=true&bar_color_cover=false&bar_color=4eb154)](https://spotify-github-profile.vercel.app/api/view?uid=bts.armys&redirect=true)
 
 <br/>
 
