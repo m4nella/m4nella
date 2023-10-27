@@ -22,7 +22,7 @@
 <h3 align="center">
         <samp>&gt; Hello There! (General Kenobi...), I am
                 <b>Emanuelle </b>
-          (you can call me Manella)
+          but you can also call me Manella
         </samp>
 </h3>
 
