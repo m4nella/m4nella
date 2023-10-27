@@ -49,14 +49,14 @@
 <br />
 
 <!-- About Section -->
- # About me
+ # About me 
  
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
- ✌️  &emsp; Enjoy to do programming :) <br/><br/>
- ❤️ &emsp; Love to play games, learn languages and SAP! <br/><br/>
- 📧 &emsp; Reach me anytime: jesussilvaemanuelle@gmail.com<br/><br/>
+ ✌️ &emsp;    Enjoy to do programming :) <br/><br/>
+ ❤️ &emsp;Love to play games, learn languages and SAP! <br/><br/>
+ 📧 &emsp;Reach me anytime: jesussilvaemanuelle@gmail.com<br/><br/>
 
 </p>
 <br/>
