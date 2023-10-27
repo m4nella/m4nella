@@ -61,10 +61,9 @@
 </p>
 <br/>
 
-   |  ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=M4nella&count=2&width=650)     |  <img src="https://thumbs.gfycat.com/EntireBlackEchidna-max-1mb.gif"/>       |
-   |    :----:    |    :----:   |
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=bts.armys&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
-
+<br/>
 
 ## Use To Code
 
