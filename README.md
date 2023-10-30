@@ -11,6 +11,8 @@
 
  -->
 
+
+
 <a href="https://komarev.com/ghpvc/?username=m4nella">
   <img align="right" src="https://komarev.com/ghpvc/?username=m4nella&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
@@ -55,10 +57,21 @@
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
  ✌️ &emsp;    Enjoy to do programming :) <br/><br/>
- ❤️ &emsp;Love to play games, learn languages and SAP! <br/><br/>
+ ❤️ &emsp;Love to play games, learn languages and SAP! <br/><br/>   <!-- meu discord: .cybermancer       (jogo valorant, league of legends, rainbow six, dead by daylight, overwatch e ETC... NERD ALERT T.T -->
  📧 &emsp;Reach me anytime: jesussilvaemanuelle@gmail.com<br/><br/>
 
 </p>
+
+
+<!--
+Eu sabia que você (sim, exatamente VOCÊ rsrs) iria vir ver  o meu código do spotify. . . fique à vontade 
+
+e sim, eu fiz gambiarra ali em cima kkkj
+ -->
+
+
+
+
 <br/>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=bts.armys&cover_image=true&theme=default&show_offline=true&background_color=1b0326&interchange=false&bar_color=3caa49&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=bts.armys&redirect=true)
