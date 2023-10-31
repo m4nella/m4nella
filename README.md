@@ -66,7 +66,7 @@
 <!--
 Eu sabia que você (sim, exatamente VOCÊ rsrs) iria vir ver  o meu código do spotify. . . fique à vontade 
 
-e sim, eu fiz gambiarra ali em cima kkkj
+e sim, eu fiz gambiarra ali em cima xd
  -->
 
 
