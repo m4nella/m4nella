@@ -41,8 +41,8 @@
  <a href="https://linkedin.com/in/emanuelle-silva-16502a223/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
  </a>
- <!-- <a href="https://dev.to/alsiam" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="alsiam" />
+ <!-- <a href="https://dev.to/m4nella" target="_blank">
+  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="m4nella" />
  </a> -->
  <a href="https://instagram.com/_memaruelle/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="m4nella" />
@@ -56,7 +56,7 @@
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
- ✌️ &emsp;    Enjoy to do programming :) <br/><br/>
+ ✌️ &emsp;     Enjoy to do programming :) <br/><br/>
  ❤️ &emsp;Love to play games, learn languages and SAP! <br/><br/>   <!-- meu discord: .cybermancer       (jogo valorant, league of legends, rainbow six, dead by daylight, overwatch e ETC... NERD ALERT T.T -->
  📧 &emsp;Reach me anytime: jesussilvaemanuelle@gmail.com<br/><br/>
 
