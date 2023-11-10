@@ -44,6 +44,9 @@
  <!-- <a href="https://dev.to/m4nella" target="_blank">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="m4nella" />
  </a> -->
+ <a target='_blank' href="https://twitch.tv/m4nella">
+        <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
+  </a>
  <a href="https://instagram.com/_memaruelle/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="m4nella" />
  </a> 
