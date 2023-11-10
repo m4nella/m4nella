@@ -53,19 +53,19 @@
 </p>
 <br />
 
-<p align="center">
+
 <!-- About Section -->
  # About me 
  
- <p>
+<p>
   <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
-  ✌️ &emsp;     Enjoy to do programming :) <br/><br/>
-  ❤️ &emsp;Love to play games, learn languages and SAP! <br/><br/>   <!-- meu discord: .cybermancer       (jogo valorant, league of legends, rainbow six, dead by daylight, overwatch e ETC... NERD ALERT T.T -->
-  📧 &emsp;Reach me anytime: jesussilvaemanuelle@gmail.com<br/><br/>
+✌️ &emsp;     Enjoy to do programming :) <br/><br/>
+❤️ &emsp;Love to play games, learn languages and SAP! <br/><br/>   <!-- meu discord: .cybermancer       (jogo valorant, league of legends, rainbow six, dead by daylight, overwatch e ETC... NERD ALERT T.T -->
+📧 &emsp;Reach me anytime: jesussilvaemanuelle@gmail.com<br/><br/>
 
- </p>
 </p>
+
 
 <!--
 Eu sabia que você (sim, exatamente VOCÊ rsrs) iria vir ver  o meu código do spotify. . . fique à vontade 
@@ -75,14 +75,14 @@ e sim, eu fiz gambiarra ali em cima xd
 
 
 
-<p align="center">
+
 <br/>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=bts.armys&cover_image=true&theme=default&show_offline=true&background_color=1b0326&interchange=false&bar_color=3caa49&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=bts.armys&redirect=true)
 
 <br/>
-</p>
-<p align="center">
+
+
 ## Use To Code
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
@@ -92,7 +92,6 @@ e sim, eu fiz gambiarra ali em cima xd
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 <br/>
-</p>
 
 <p align="left">
   <a href="https://github.com/m4nella?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
