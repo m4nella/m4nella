@@ -1,7 +1,7 @@
 
 <h2 align="center">
   Welcome to Manella's World!
-  <img src="https://media.giphy.com/media/lqp9quCpMASNyerNWq/giphy.gif" width="30">
+  
 </h2>
 
 <!--
@@ -26,6 +26,7 @@
                 <b>Emanuelle </b>
           but you can also call me Manella
         </samp>
+  <img src="https://media.giphy.com/media/lqp9quCpMASNyerNWq/giphy.gif" width="30">
 </h3>
 
 <p align="center"> 
