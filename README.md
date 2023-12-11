@@ -1,6 +1,6 @@
 
 <h2 align="center">
-  Welcome to Manella's World!
+  Welcome to Manella's Profile
   
 </h2>
 
