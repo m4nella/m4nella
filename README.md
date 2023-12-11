@@ -4,21 +4,24 @@
   
 </h2>
 
-<!--
-<p align="center">
-  <a href="https://github.com/m4nella"><img src="https://readme-typing-svg.herokuapp.com/?lines=Programmer;Front%20End%20Developer;1.5%2B%18years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
-</p>
-
- -->
-
-
-
 <a href="https://komarev.com/ghpvc/?username=m4nella">
   <img align="right" src="https://komarev.com/ghpvc/?username=m4nella&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
+
+<p align="center">
 <br />
-<br />
+  <br />
+<img src="/gifellie/ellie.gif">
+
+  
+</p>
+
+
+
+
+
+
 
 <!-- Intro  -->
 <h3 align="center">
