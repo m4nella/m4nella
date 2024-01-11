@@ -65,9 +65,9 @@
 <p>
   <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
-✌️ &emsp;     Enjoy to do programming :) <br/><br/>
-❤️ &emsp;Love to play games, learn languages and SAP! <br/><br/>   <!-- meu discord: .cybermancer       (jogo valorant, league of legends, rainbow six, dead by daylight, overwatch e ETC... NERD ALERT T.T -->
-📧 &emsp;Reach me anytime: jesussilvaemanuelle@gmail.com<br/><br/>
+ &emsp;     Enjoy to do programming :) <br/><br/>
+ &emsp;Love to play games, learn languages and SAP! <br/><br/>   <!-- meu discord: .cybermancer       (jogo valorant, league of legends, rainbow six, dead by daylight, overwatch e ETC... NERD ALERT T.T -->
+ &emsp;Reach me anytime: jesussilvaemanuelle@gmail.com<br/><br/>
 
 </p>
 
