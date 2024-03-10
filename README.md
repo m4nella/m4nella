@@ -67,7 +67,7 @@
 <p>
   
  - &emsp;     Enjoy to do programming :) <br/><br/>
- - &emsp;Love to play games, learn languages and SAP! <br/><br/>   <!-- meu discord: .cybermancer       (jogo valorant, league of legends, rainbow six, dead by daylight, overwatch e ETC... NERD ALERT T.T -->
+ - &emsp;Huge fan of TLOU and LOTR <br/><br/>   <!-- meu discord: .cybermancer       (jogo valorant, league of legends, rainbow six, dead by daylight, overwatch e ETC... NERD ALERT T.T -->
  - &emsp;Reach me anytime: jesussilvaemanuelle@gmail.com<br/><br/>
 
 </p>
