@@ -12,7 +12,7 @@
 <p align="center">
 <br />
   <br />
-<img src="/gifellie/ellie.gif">
+<img src="ellie.gif">
 
   
 </p>
