@@ -35,7 +35,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 I am a Systems Developer from <b>Brazil</b> 」
+    「 I'm just a girl not a <b>threat</b> 」
     <br>
     <br>
   </samp>
