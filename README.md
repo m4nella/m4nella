@@ -35,7 +35,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 I'm just a girl not a <b>threat</b> 」
+    「 "I'm just a girl not a <b>threat"</b> ~ Ellie Williams」
     <br>
     <br>
   </samp>
