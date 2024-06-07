@@ -1,6 +1,6 @@
 
 <h2 align="center">
-  Welcome 
+  Howdy, Stranger! Welcome to my profile :)
   
 </h2>
 
