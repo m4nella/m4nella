@@ -84,7 +84,16 @@ e sim, eu fiz gambiarra ali em cima xd
 
 <br/>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=bts.armys&cover_image=true&theme=default&show_offline=true&background_color=1b0326&interchange=false&bar_color=3caa49&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=bts.armys&redirect=true)
+<div align="center">
+<div>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=m4nella&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4nella&layout=compact&langs_count=8&theme=light"/>
+</div>
+  <hr>  
+  
+ [![Spotify](https://novatorem-git-main-m4nella-projects.vercel.app/api/spotify)](https://open.spotify.com/user/bts.armys)
+<!-- ![](https://github-profile-trophy.vercel.app/?username=m4nella&theme=radical&no-frame=false&no-bg=true&margin-w=4) --!>
+</div>
 
 <br/>
 
