@@ -83,18 +83,6 @@ e sim, eu fiz gambiarra ali em cima xd
 
 
 <br/>
-
-<div align="center">
-<div>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=m4nella&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4nella&layout=compact&langs_count=8&theme=light"/>
-</div>
-  <hr>  
-  
- [![Spotify](https://novatorem-git-main-m4nella-projects.vercel.app/api/spotify)](https://open.spotify.com/user/bts.armys)
-<!-- ![](https://github-profile-trophy.vercel.app/?username=m4nella&theme=radical&no-frame=false&no-bg=true&margin-w=4) --!>
-</div>
-
 <br/>
 
 
