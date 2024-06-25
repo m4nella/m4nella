@@ -18,11 +18,6 @@
 </p>
 
 
-
-
-
-
-
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hello There! (GeNeRaL KeNobI...), I am
@@ -59,9 +54,6 @@
   <!-- ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) --> 
 </p>
 <br />
-
-[![Spotify](https://novatorem-git-main-m4nella-projects.vercel.app/api/spotify)](https://open.spotify.com/user/bts.armys)
-<!-- ![](https://github-profile-trophy.vercel.app/?username=caiofariaas&theme=radical&no-frame=false&no-bg=true&margin-w=4) --!>
 
 <!-- About Section -->
  # About me 
@@ -142,3 +134,14 @@ e sim, eu fiz gambiarra ali em cima xd
   <a href="https://github.com/m4nella"><img alt="Manella's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=m4nella&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
+
+ <a href="https://steamcommunity.com/profiles/76561198815341564">
+    <img height="30" src="https://www.vectorlogo.zone/logos/steampowered/steampowered-icon.svg" alt="Steam" title="Steam" target="_blank">
+  </a>
+ <!-- <a href="https://discord.gg/--------">
+    <img height="30" src="https://www.vectorlogo.zone/logos/discord/discord-icon.svg" alt="Discord" title="Discord" target="_blank">
+  </a> -->
+  <a href="https://open.spotify.com/user/bts.armys">
+    <img height="30" src="https://www.vectorlogo.zone/logos/spotify/spotify-icon.svg" alt="Spotify" title="Spotify" target="_blank">
+  </a>
+
