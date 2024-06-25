@@ -60,6 +60,8 @@
 </p>
 <br />
 
+[![Spotify](https://novatorem-git-main-m4nella-projects.vercel.app/api/spotify)](https://open.spotify.com/user/bts.armys)
+<!-- ![](https://github-profile-trophy.vercel.app/?username=caiofariaas&theme=radical&no-frame=false&no-bg=true&margin-w=4) --!>
 
 <!-- About Section -->
  # About me 
